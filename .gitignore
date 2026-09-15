@@ -2,3 +2,6 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Private Ushahidi export; the curated public dataset remains tracked.
+data/responses.csv
